@@ -13,12 +13,6 @@
 4. If the number is guessed, the program ends the game and shows the score.
 5. The player can start a new game by clicking the "Again!" button.
 
-## Features
-
-- **Interactive Interface:** Simple and user-friendly design.
-- **Hints:** Messages help guide the player toward the correct answer.
-- **Highscores:** The program tracks and saves the highest score.
-
 ## Technologies
 
 - HTML5
